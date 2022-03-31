@@ -1,6 +1,6 @@
-# Hackathon
+# JS mini game
 
-Projet d'école réalisé en 2021.
+Projet d'école réalisé en 2021 lors d'un hackathon.
 
 Thème : Représentation visuelle du son. Représentation sonore du visuel.
 
