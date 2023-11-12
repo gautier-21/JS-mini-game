@@ -6,6 +6,6 @@ Thème : Représentation visuelle du son. Représentation sonore du visuel.
 
 Rendu : Prototype d'une page 404 intégrant un mini jeu.
 
-Lien du rendu : [JS-mini-game](https://ggxm.github.io/JS-mini-game/)
+Lien du rendu : [JS-mini-game](https://gautier-21.github.io/JS-mini-game/)
 
-Équipe : [Takwa](https://github.com/Belghithtakwa) | [Vincent](https://github.com/Vincent-Manach) | [Gautier](https://github.com/ggxm)
+Équipe : [Takwa](https://github.com/Belghithtakwa) | [Vincent](https://github.com/Vincent-Manach) | [Gautier](https://github.com/gautier-21)
